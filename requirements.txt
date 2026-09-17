@@ -2,3 +2,8 @@
 numpy
 pillow
 pycocotools
+streamlit
+streamlit-drawable-canvas
+ultralytics
+torch
+transformers
